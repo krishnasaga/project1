@@ -37,14 +37,13 @@
       "electronInstallerDebian": {},
       "electronInstallerRedhat": {},
       "github_repository": {
-        "owner": "",
-        "name": ""
+        "owner": "solo474",
+        "name": "project1"
       },
       "windowsStoreConfig": {
         "packageName": "",
         "name": "nativedesktop"
       }
-    }
   },
   "dependencies": {
     "electron-compile": "^6.4.4",
